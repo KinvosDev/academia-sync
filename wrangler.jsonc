@@ -1,0 +1,12 @@
+{
+  "name": "academia-sync",
+  "main": "_worker.js",
+  "compatibility_date": "2025-01-01",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "academia-db",
+      "database_id": "643c874b-f706-45b2-9aa5-415e25dc88bb"
+    }
+  ]
+}
